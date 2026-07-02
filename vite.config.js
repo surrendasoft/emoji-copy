@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/emoji-stash/",
+  base: "/emoji-copy/",
 });
